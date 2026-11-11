@@ -1,0 +1,51 @@
+﻿@model IEnumerable<PharmaDesk.Models.Purchase>
+
+@{
+    ViewData["Title"] = "Purchases";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="mb-0">Purchases</h4>
+    <a asp-action="Create" class="btn btn-success">
+        <i class="bi bi-plus-lg"></i> New Purchase
+    </a>
+</div>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<div class="card p-3">
+    <table class="table table-hover mb-0 align-middle">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Date</th>
+                <th>Supplier</th>
+                <th>Invoice #</th>
+                <th class="text-center">Items</th>
+                <th class="text-end">Total Cost</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (!Model.Any())
+            {
+                <tr>
+                    <td colspan="6" class="text-center text-muted py-4">No purchases yet.</td>
+                </tr>
+            }
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.PurchaseDate.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td>@item.Supplier?.Name</td>
+                    <td>@item.InvoiceNumber</td>
+                    <td class="text-center">@item.PurchaseItems.Count</td>
+                    <td class="text-end">$@item.TotalCost.ToString("0.00")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

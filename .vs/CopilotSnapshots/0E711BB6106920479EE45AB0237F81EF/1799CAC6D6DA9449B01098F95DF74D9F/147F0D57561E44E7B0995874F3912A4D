@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PharmaDesk</title>
+    
+    <!-- Bootstrap (سنستخدم النسخة المحلية لاحقاً، الآن من CDN) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" />
+    
+    <style>
+        body { background-color: #f8f9fa; font-size: 16px; }
+        
+        /* Sidebar */
+        .sidebar {
+            min-height: 100vh;
+            width: 240px;
+            background-color: #ffffff;
+            border-right: 1px solid #dee2e6;
+            position: fixed;
+            top: 0;
+            left: 0;
+            padding-top: 20px;
+        }
+        .sidebar .brand {
+            font-size: 1.3rem;
+            font-weight: bold;
+            color: #2e7d32; /* أخضر هادئ */
+            padding: 0 20px 20px 20px;
+            border-bottom: 1px solid #dee2e6;
+            margin-bottom: 10px;
+        }
+        .sidebar a {
+            display: block;
+            padding: 10px 20px;
+            color: #495057;
+            text-decoration: none;
+            font-size: 1rem;
+            border-left: 3px solid transparent;
+        }
+        .sidebar a:hover {
+            background-color: #e9f5ea;
+            color: #2e7d32;
+        }
+        .sidebar a.active {
+            background-color: #e9f5ea;
+            color: #2e7d32;
+            border-left: 3px solid #2e7d32;
+            font-weight: 600;
+        }
+        .sidebar a i { margin-right: 8px; }
+        
+        /* Main content */
+        .main-content {
+            margin-left: 240px;
+            padding: 20px 30px;
+        }
+        
+        /* Top bar */
+        .topbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #dee2e6;
+            margin-bottom: 20px;
+        }
+        .topbar .greeting { font-size: 1.4rem; font-weight: 600; }
+        .topbar .user-info { color: #6c757d; }
+        
+        /* Cards */
+        .card { border-radius: 8px; border: 1px solid #dee2e6; }
+        
+        /* Style guide colors */
+        .text-expired { color: #dc3545; }   /* أحمر */
+        .text-warning-custom { color: #fd7e14; } /* برتقالي */
+    </style>
+</head>
+<body>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <div class="brand">
+            <i class="bi bi-capsule"></i> PharmaDesk
+        </div>
+        
+        <!-- القائمة الجانبية (ستتغير لاحقاً حسب الدور) -->
+        <a href="/" class="active"><i class="bi bi-speedometer2"></i> Dashboard</a>
+        <a href="/Sale/New"><i class="bi bi-cart-plus"></i> New Sale</a>
+        <a href="/Sale/History"><i class="bi bi-receipt"></i> Sales History</a>
+        <a href="/Medicine"><i class="bi bi-capsule"></i> Medicines</a>
+        <a href="/Stock"><i class="bi bi-box-seam"></i> Stock</a>
+        <a href="/Expiry"><i class="bi bi-calendar-x"></i> Expiry Report</a>
+        <a href="/Supplier"><i class="bi bi-truck"></i> Suppliers</a>
+        <a href="/Purchase"><i class="bi bi-bag-check"></i> Purchases</a>
+        <a href="/Report"><i class="bi bi-graph-up"></i> Reports</a>
+        <a href="/TeamMember"><i class="bi bi-people"></i> Team Members</a>
+        <a href="/Backup"><i class="bi bi-hdd"></i> Backup</a>
+        <a href="/ActivityLog"><i class="bi bi-clock-history"></i> Activity Log</a>
+    </div>
+
+    <!-- Main content -->
+    <div class="main-content">
+        <div class="topbar">
+            <div class="greeting">
+                @if (ViewData["Greeting"] != null)
+                {
+                    @ViewData["Greeting"]
+                }
+                else
+                {
+                    <span>Welcome</span>
+                }
+            </div>
+            <div class="user-info">
+                <!-- لاحقاً سيُعرض اسم المستخدم والدور هنا -->
+                <span>Admin</span> &nbsp;|&nbsp; <a href="/Account/Logout" class="text-decoration-none">Logout</a>
+            </div>
+        </div>
+
+        <!-- محتوى الصفحة -->
+        @RenderBody()
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

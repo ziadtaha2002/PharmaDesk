@@ -1,0 +1,122 @@
+﻿@model PharmaDesk.ViewModels.PurchaseViewModel
+
+@{
+    ViewData["Title"] = "New Purchase";
+}
+
+<!-- ربط ملفات Select2 المحلية -->
+<link href="~/lib/select2/select2.min.css" rel="stylesheet" />
+<link href="~/lib/select2/select2-bootstrap-5-theme.min.css" rel="stylesheet" />
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="mb-0">New Purchase</h4>
+    <a asp-action="Index" class="btn btn-outline-secondary">Back</a>
+</div>
+
+<form asp-action="Create" method="post" id="purchaseForm">
+    @Html.AntiForgeryToken()
+
+    <div asp-validation-summary="All" class="text-danger mb-2"></div>
+
+    <!-- رأس الفاتورة -->
+    <div class="card p-3 mb-3">
+        <div class="row g-3">
+            <div class="col-md-4">
+                <label asp-for="SupplierId" class="form-label">Supplier *</label>
+                <select asp-for="SupplierId" class="form-select searchable-select">
+                    <option value="">-- Choose a supplier --</option>
+                    @foreach (var sup in Model.Suppliers)
+                    {
+                        <option value="@sup.Id">@sup.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="SupplierId" class="text-danger"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="InvoiceNumber" class="form-label">Invoice Number</label>
+                <input asp-for="InvoiceNumber" class="form-control" placeholder="Optional" />
+            </div>
+        </div>
+    </div>
+
+    <!-- جدول البنود -->
+    <div class="card p-3 mb-3">
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <h6 class="mb-0">Items</h6>
+            <button type="button" class="btn btn-sm btn-outline-primary" onclick="addRow()">
+                <i class="bi bi-plus-lg"></i> Add Item
+            </button>
+        </div>
+
+        <table class="table table-sm align-middle" id="itemsTable">
+            <thead>
+                <tr>
+                    <th style="width: 30%;">Medicine</th>
+                    <th style="width: 20%;">Batch Number</th>
+                    <th style="width: 15%;">Expiry Date</th>
+                    <th style="width: 10%;">Qty</th>
+                    <th style="width: 12%;">Cost Price</th>
+                    <th style="width: 8%;">Total</th>
+                    <th style="width: 5%;"></th>
+                </tr>
+            </thead>
+            <tbody id="itemsBody">
+            </tbody>
+        </table>
+
+        <div class="text-end">
+            <strong>Grand Total: $<span id="grandTotal">0.00</span></strong>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save Purchase</button>
+    <a asp-action="Index" class="btn btn-outline-secondary">Cancel</a>
+</form>
+
+<template id="rowTemplate">
+    <tr>
+        <td>
+            <select name="Items[__INDEX__].MedicineId" class="form-select form-select-sm searchable-select-medicine">
+                <option value="">-- Choose --</option>
+                @foreach (var med in Model.Medicines)
+                {
+                    <option value="@med.Id">@med.Name</option>
+                }
+            </select>
+        </td>
+        <td>
+            <input name="Items[__INDEX__].BatchNumber" class="form-control form-control-sm" placeholder="B-001" />
+        </td>
+        <td>
+            <input name="Items[__INDEX__].ExpiryDate" type="date" class="form-control form-control-sm" />
+        </td>
+        <td>
+            <input name="Items[__INDEX__].Quantity" type="number" min="1" value="1"
+                   class="form-control form-control-sm qty-input" />
+        </td>
+        <td>
+            <input name="Items[__INDEX__].CostPrice" type="number" step="0.01" min="0.01" value="0.00"
+                   class="form-control form-control-sm price-input" />
+        </td>
+        <td class="text-end line-total">$0.00</td>
+        <td>
+            <button type="button" class="btn btn-sm btn-outline-danger" onclick="removeRow(this)">
+                <i class="bi bi-x"></i>
+            </button>
+        </td>
+    </tr>
+</template>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    
+    <!-- تحميل jQuery و Select2 محلياً -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/select2/select2.min.js"></script>
+    
+    <script>
+        const existingItems = @Html.Raw(System.Text.Json.JsonSerializer.Serialize(Model.Items));
+    </script>
+    
+    <script src="~/js/purchase.js"></script>
+}
