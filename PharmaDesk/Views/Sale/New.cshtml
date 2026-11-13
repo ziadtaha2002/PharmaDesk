@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "New Sale";
+}
+<form id="antiForgeryForm" method="post">
+    @Html.AntiForgeryToken()
+</form>
+<div class="row">
+    <!-- العمود الأيسر: البحث والسلة -->
+    <div class="col-md-8">
+        <div class="card p-3 mb-3">
+            <h5 class="mb-3">Scan Barcode or Search</h5>
+            <input type="text" id="barcodeInput" class="form-control form-control-lg"
+                   placeholder="Scan barcode or type medicine name..." autofocus />
+            <small class="text-muted mt-1 d-block">Press Enter to add to cart</small>
+        </div>
+
+        <div class="card p-3">
+            <h5 class="mb-3">Cart</h5>
+            <table class="table table-hover align-middle" id="cartTable">
+                <thead>
+                    <tr>
+                        <th>Medicine</th>
+                        <th style="width: 120px;">Qty</th>
+                        <th class="text-end">Price</th>
+                        <th class="text-end">Total</th>
+                        <th style="width: 50px;"></th>
+                    </tr>
+                </thead>
+                <tbody id="cartBody">
+                    <tr id="emptyCartRow">
+                        <td colspan="5" class="text-center text-muted py-4">Cart is empty.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- العمود الأيمن: الملخص والدفع -->
+    <div class="col-md-4">
+        <div class="card p-3 sticky-top" style="top: 20px;">
+            <h5 class="mb-3">Summary</h5>
+
+            <div class="d-flex justify-content-between mb-2">
+                <span>Items:</span>
+                <span id="summaryItems">0</span>
+            </div>
+
+            <hr />
+
+            <div class="d-flex justify-content-between mb-3">
+                <span class="fs-5">Total to pay:</span>
+                <span class="fs-3 fw-bold" id="summaryTotal">$0.00</span>
+            </div>
+
+            <button class="btn btn-success btn-lg w-100 mb-2" onclick="saveSale()">
+                Save and show receipt
+            </button>
+            <button class="btn btn-outline-secondary w-100" onclick="clearCart()">
+                Clear cart
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- نافذة منبثقة للبحث -->
+<div class="modal fade" id="searchModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Select Medicine</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <input type="text" id="modalSearchInput" class="form-control mb-3" placeholder="Type to search..." />
+                <div class="list-group" id="modalSearchResults">
+                    <!-- النتائج تظهر هنا -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // تمرير قائمة الأدوية من السيرفر إلى الجافاسكريبت
+        const allMedicines = @Html.Raw(ViewBag.MedicinesJson);
+    </script>
+    <script src="~/js/sale.js"></script>
+}

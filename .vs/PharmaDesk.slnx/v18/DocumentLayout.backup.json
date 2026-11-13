@@ -7,95 +7,72 @@
       "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ziad taha\\.copilot\\plans\\plan-make-pharmadesk-assets-available-offline.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\wwwroot\\js\\purchase.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\wwwroot\\js\\purchase.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\report\\lowstock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\report\\lowstock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\purchase\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\purchase\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\report\\expiry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\report\\expiry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\sale\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\sale\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\purchase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\purchase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\viewmodels\\purchaseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\viewmodels\\purchaseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\stock\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\stock\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\supplier\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\supplier\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\supplier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\supplier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\supplier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\supplier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\viewmodels\\stockviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\viewmodels\\stockviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\wwwroot\\js\\sale.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\wwwroot\\js\\sale.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\globelusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\globelusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\viewmodels\\medicineviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\viewmodels\\medicineviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\sale\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\sale\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\models\\medicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\models\\medicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\sale\\receipt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\sale\\receipt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\controllers\\categorycontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\controllers\\categorycontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\migrations\\pharmadeskcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\migrations\\pharmadeskcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\migrations\\20261109174011_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\migrations\\20261109174011_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|d:\\web dev\\projects\\pharmadesk\\pharmadesk\\pharmadesk\\viewmodels\\saleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460C3CA0-5D61-9994-B865-DB6938ABF2D3}|PharmaDesk\\PharmaDesk.csproj|solutionrelative:pharmadesk\\viewmodels\\saleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -105,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 23,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -121,259 +98,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "plan-make-pharmadesk-assets-available-offline.md [Preview]",
-              "DocumentMoniker": "C:\\Users\\Ziad taha\\.copilot\\plans\\plan-make-pharmadesk-assets-available-offline.md",
-              "ToolTip": "C:\\Users\\Ziad taha\\.copilot\\plans\\plan-make-pharmadesk-assets-available-offline.md [Preview]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-11-11T18:52:40.297Z",
-              "EditorCaption": " [Preview]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "purchase.js",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\wwwroot\\js\\purchase.js",
-              "RelativeDocumentMoniker": "PharmaDesk\\wwwroot\\js\\purchase.js",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\wwwroot\\js\\purchase.js",
-              "RelativeToolTip": "PharmaDesk\\wwwroot\\js\\purchase.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-11-11T11:40:16.136Z",
+              "Title": "LowStock.cshtml",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Report\\LowStock.cshtml",
+              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Report\\LowStock.cshtml",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Report\\LowStock.cshtml",
+              "RelativeToolTip": "PharmaDesk\\Views\\Report\\LowStock.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T23:39:24.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Purchase\\Create.cshtml",
-              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Purchase\\Create.cshtml",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Purchase\\Create.cshtml",
-              "RelativeToolTip": "PharmaDesk\\Views\\Purchase\\Create.cshtml",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Title": "Expiry.cshtml",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Report\\Expiry.cshtml",
+              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Report\\Expiry.cshtml",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Report\\Expiry.cshtml",
+              "RelativeToolTip": "PharmaDesk\\Views\\Report\\Expiry.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T11:38:53.955Z",
+              "WhenOpened": "2026-11-12T23:38:52.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Purchase\\Index.cshtml",
-              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Purchase\\Index.cshtml",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Purchase\\Index.cshtml",
-              "RelativeToolTip": "PharmaDesk\\Views\\Purchase\\Index.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwDIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T11:38:31.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PurchaseController.cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\PurchaseController.cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\Controllers\\PurchaseController.cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\PurchaseController.cs",
-              "RelativeToolTip": "PharmaDesk\\Controllers\\PurchaseController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAkwBQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "PharmaDesk\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "PharmaDesk\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T11:30:56.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PurchaseViewModel.cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\ViewModels\\PurchaseViewModel.cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\ViewModels\\PurchaseViewModel.cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\ViewModels\\PurchaseViewModel.cs",
-              "RelativeToolTip": "PharmaDesk\\ViewModels\\PurchaseViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T11:27:22.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Supplier\\Delete.cshtml",
-              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Supplier\\Delete.cshtml",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Supplier\\Delete.cshtml",
-              "RelativeToolTip": "PharmaDesk\\Views\\Supplier\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T10:04:43.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Supplier\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Supplier\\Edit.cshtml",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Supplier\\Edit.cshtml",
-              "RelativeToolTip": "PharmaDesk\\Views\\Supplier\\Edit.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T10:04:08.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Supplier\\Create.cshtml",
-              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Supplier\\Create.cshtml",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Supplier\\Create.cshtml",
-              "RelativeToolTip": "PharmaDesk\\Views\\Supplier\\Create.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAqwC8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T10:02:18.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GlobelUsing.cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\GlobelUsing.cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\GlobelUsing.cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\GlobelUsing.cs",
-              "RelativeToolTip": "PharmaDesk\\GlobelUsing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T09:50:41.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Supplier\\Index.cshtml",
-              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Supplier\\Index.cshtml",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Supplier\\Index.cshtml",
-              "RelativeToolTip": "PharmaDesk\\Views\\Supplier\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T09:41:39.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SupplierController.cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\SupplierController.cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\Controllers\\SupplierController.cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\SupplierController.cs",
-              "RelativeToolTip": "PharmaDesk\\Controllers\\SupplierController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T09:25:34.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\Models\\Category.cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Models\\Category.cs",
-              "RelativeToolTip": "PharmaDesk\\Models\\Category.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T08:22:36.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoryController .cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\CategoryController .cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\Controllers\\CategoryController .cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\CategoryController .cs",
-              "RelativeToolTip": "PharmaDesk\\Controllers\\CategoryController .cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAA7wHsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T08:22:25.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Medicines.cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Models\\Medicines.cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\Models\\Medicines.cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Models\\Medicines.cs",
-              "RelativeToolTip": "PharmaDesk\\Models\\Medicines.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T08:22:19.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MedicineController.cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\MedicineController.cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\Controllers\\MedicineController.cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\MedicineController.cs",
-              "RelativeToolTip": "PharmaDesk\\Controllers\\MedicineController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T07:36:06.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Category\\Create.cshtml",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "PharmaDesk\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T07:29:06.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MedicineViewModel.cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\ViewModels\\MedicineViewModel.cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\ViewModels\\MedicineViewModel.cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\ViewModels\\MedicineViewModel.cs",
-              "RelativeToolTip": "PharmaDesk\\ViewModels\\MedicineViewModel.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T07:28:51.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PharmaDeskContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Migrations\\PharmaDeskContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\Migrations\\PharmaDeskContextModelSnapshot.cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Migrations\\PharmaDeskContextModelSnapshot.cs",
-              "RelativeToolTip": "PharmaDesk\\Migrations\\PharmaDeskContextModelSnapshot.cs",
-              "ViewState": "AgIAAB8CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T07:28:14.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20261109174011_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Migrations\\20261109174011_InitialCreate.cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\Migrations\\20261109174011_InitialCreate.cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Migrations\\20261109174011_InitialCreate.cs",
-              "RelativeToolTip": "PharmaDesk\\Migrations\\20261109174011_InitialCreate.cs",
-              "ViewState": "AgIAAIIBAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T07:25:44.881Z",
+              "WhenOpened": "2026-11-12T23:33:03.284Z",
               "EditorCaption": ""
             },
             {
@@ -384,49 +143,182 @@
               "RelativeDocumentMoniker": "PharmaDesk\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PharmaDesk\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T07:22:09.332Z",
+              "WhenOpened": "2026-11-12T23:04:39.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 4,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Sale\\History.cshtml",
+              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Sale\\History.cshtml",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Sale\\History.cshtml",
+              "RelativeToolTip": "PharmaDesk\\Views\\Sale\\History.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T22:52:32.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\README.md",
+              "RelativeDocumentMoniker": "PharmaDesk\\README.md",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\README.md",
+              "RelativeToolTip": "PharmaDesk\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-12T22:18:09.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Stock\\Details.cshtml",
+              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Stock\\Details.cshtml",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Stock\\Details.cshtml",
+              "RelativeToolTip": "PharmaDesk\\Views\\Stock\\Details.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwB0AAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T19:54:50.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PharmaDesk\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Stock\\Index.cshtml",
+              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Stock\\Index.cshtml",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Stock\\Index.cshtml",
+              "RelativeToolTip": "PharmaDesk\\Views\\Stock\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T07:18:05.583Z",
+              "WhenOpened": "2026-11-11T19:54:24.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "PharmaDesk\\Controllers\\StockController.cs",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\StockController.cs",
+              "RelativeToolTip": "PharmaDesk\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T19:53:10.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockViewModel.cs",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\ViewModels\\StockViewModel.cs",
+              "RelativeDocumentMoniker": "PharmaDesk\\ViewModels\\StockViewModel.cs",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\ViewModels\\StockViewModel.cs",
+              "RelativeToolTip": "PharmaDesk\\ViewModels\\StockViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T19:52:28.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sale.js",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\wwwroot\\js\\sale.js",
+              "RelativeDocumentMoniker": "PharmaDesk\\wwwroot\\js\\sale.js",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\wwwroot\\js\\sale.js",
+              "RelativeToolTip": "PharmaDesk\\wwwroot\\js\\sale.js",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAzwLUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-11T19:24:43.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Receipt.cshtml",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Sale\\Receipt.cshtml",
+              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Sale\\Receipt.cshtml",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Sale\\Receipt.cshtml",
+              "RelativeToolTip": "PharmaDesk\\Views\\Sale\\Receipt.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwEIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T19:23:11.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Sale\\New.cshtml",
+              "RelativeDocumentMoniker": "PharmaDesk\\Views\\Sale\\New.cshtml",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Views\\Sale\\New.cshtml",
+              "RelativeToolTip": "PharmaDesk\\Views\\Sale\\New.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T19:22:46.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "PharmaDesk\\Controllers\\SaleController.cs",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "PharmaDesk\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T19:20:31.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PharmaDesk\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Program.cs",
+              "RelativeDocumentMoniker": "PharmaDesk\\Program.cs",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Program.cs",
+              "RelativeToolTip": "PharmaDesk\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T07:17:11.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T19:19:48.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DbSeeder.cs",
-              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Data\\DbSeeder.cs",
-              "RelativeDocumentMoniker": "PharmaDesk\\Data\\DbSeeder.cs",
-              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Data\\DbSeeder.cs",
-              "RelativeToolTip": "PharmaDesk\\Data\\DbSeeder.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA5wA4AAAAqAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Services\\SaleService.cs",
+              "RelativeDocumentMoniker": "PharmaDesk\\Services\\SaleService.cs",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Services\\SaleService.cs",
+              "RelativeToolTip": "PharmaDesk\\Services\\SaleService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAUwHoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T07:16:32.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T19:16:10.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "PharmaDesk\\Models\\Sale.cs",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\Models\\Sale.cs",
+              "RelativeToolTip": "PharmaDesk\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T19:11:50.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SaleViewModel.cs",
+              "DocumentMoniker": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\ViewModels\\SaleViewModel.cs",
+              "RelativeDocumentMoniker": "PharmaDesk\\ViewModels\\SaleViewModel.cs",
+              "ToolTip": "D:\\Web Dev\\Projects\\PharmaDesk\\PharmaDesk\\PharmaDesk\\ViewModels\\SaleViewModel.cs",
+              "RelativeToolTip": "PharmaDesk\\ViewModels\\SaleViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T19:10:30.863Z"
             }
           ]
         }

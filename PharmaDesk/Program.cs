@@ -11,7 +11,8 @@ namespace PharmaDesk
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+            // تسجيل SaleService
+            builder.Services.AddScoped<PharmaDesk.Services.SaleService>();
             // Register DbContext
             builder.Services.AddDbContext<PharmaDeskContext>(options =>
              options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))); 

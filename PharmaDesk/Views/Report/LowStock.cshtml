@@ -1,0 +1,52 @@
+﻿@model IEnumerable<PharmaDesk.ViewModels.StockViewModel>
+
+@{
+    ViewData["Title"] = "Low Stock";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="mb-0">Low Stock</h4>
+</div>
+
+<div class="card p-3">
+    <table class="table table-hover align-middle mb-0">
+        <thead>
+            <tr>
+                <th>Medicine</th>
+                <th>Category</th>
+                <th class="text-center">In Stock</th>
+                <th class="text-center">Alert Level</th>
+                <th class="text-center">Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (!Model.Any())
+            {
+                <tr>
+                    <td colspan="5" class="text-center text-muted py-4">
+                        All medicines have healthy stock levels.
+                    </td>
+                </tr>
+            }
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.MedicineName</td>
+                    <td>@item.Category</td>
+                    <td class="text-center fw-bold text-danger">@item.TotalQuantity</td>
+                    <td class="text-center">@item.LowStockLevel</td>
+                    <td class="text-center">
+                        @if (item.TotalQuantity == 0)
+                        {
+                            <span class="badge bg-danger">Out of Stock</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-warning text-dark">Low</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
